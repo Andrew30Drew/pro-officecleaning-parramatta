@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# *
+User-agent: *
+Disallow: /api/
+Disallow: /_next/
+
+# Host
+Host: https://www.procleancorp.com.au
+
+# Sitemaps
+Sitemap: https://www.procleancorp.com.au/sitemap.xml

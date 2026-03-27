@@ -1,0 +1,1 @@
+export default function IndustrialCleaningSydneyLayout({ children }: { children: React.ReactNode }) { return children; }

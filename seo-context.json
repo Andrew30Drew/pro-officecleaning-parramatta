@@ -1,0 +1,148 @@
+{
+  "project": "Pro Clean Corp",
+  "generated": "2026-03-22",
+  "business": {
+    "name": "Pro Clean Corp Commercial Cleaning Services Sydney NSW",
+    "url": "https://www.procleancorp.com.au",
+    "phone": "1300 494 983",
+    "email": "hello@procleancorp.com.au",
+    "address": "77 Garfield Street, Sydney NSW 2164, Australia",
+    "founded": 2015,
+    "years_experience": 9,
+    "clients": 1200,
+    "rating": 4.8,
+    "review_count": 1200,
+    "twitter": "@Pro_Clean_Corp",
+    "social": {
+      "facebook": "https://www.facebook.com/profile.php?id=61557847062414",
+      "instagram": "https://www.instagram.com/procleancorps",
+      "twitter": "https://twitter.com/Pro_Clean_Corp",
+      "youtube": "https://www.youtube.com/@ProCleanCorp",
+      "linkedin": "https://www.linkedin.com/company/pro-clean-corp/"
+    },
+    "hours": {
+      "monday_friday": "07:00-18:00",
+      "saturday": "08:00-16:00",
+      "sunday": "08:00-14:00"
+    }
+  },
+  "stack": {
+    "framework": "Next.js 15",
+    "react": "19",
+    "language": "TypeScript",
+    "styling": "Tailwind CSS v4",
+    "analytics": "GA4 (G-N62C9W59ER)",
+    "sitemap": "next-sitemap"
+  },
+  "seo": {
+    "title_template": "%s | Pro Clean Corp Commercial Cleaning Sydney NSW",
+    "default_title": "Pro Clean Corp Commercial Cleaning Services Sydney NSW - Professional Office & Commercial Cleaners",
+    "meta_base_url": "https://www.procleancorp.com.au",
+    "og_image": "https://www.procleancorp.com.au/meta.png",
+    "og_image_dimensions": "1200x630",
+    "locale": "en_AU",
+    "canonical": "auto-generated per page",
+    "robots_txt": "configured with sitemap reference",
+    "sitemap": "auto-generated via next-sitemap postbuild",
+    "security_headers": ["HSTS", "X-Frame-Options: DENY", "X-Content-Type-Options: nosniff", "Referrer-Policy", "Permissions-Policy"],
+    "image_formats": ["WebP"],
+    "lcp_priority": true
+  },
+  "schema_types": [
+    "LocalBusiness",
+    "Organization",
+    "Service",
+    "FAQPage",
+    "BreadcrumbList",
+    "WebSite (with SearchAction)",
+    "OfferCatalog",
+    "AggregateRating"
+  ],
+  "services": [
+    "Commercial Cleaning",
+    "Office Cleaning",
+    "Warehouse & Industrial Cleaning",
+    "Strata & Body Corporate Cleaning",
+    "Medical Centre Cleaning",
+    "Gym & Fitness Cleaning",
+    "Restaurant Cleaning",
+    "School & Childcare Cleaning",
+    "Church Cleaning",
+    "Carpet Cleaning",
+    "Window Cleaning",
+    "End-of-Lease Cleaning",
+    "Retail Cleaning",
+    "Home Cleaning"
+  ],
+  "content_strategy": {
+    "page_count": "300+",
+    "pattern": "service × suburb combinations",
+    "service_hub_pages": 14,
+    "location_pages": "70+ suburbs",
+    "faqs_per_page": "6-10",
+    "benefits_per_page": "8-10",
+    "process_steps": 4,
+    "suburbs_per_service": "20-45"
+  },
+  "service_areas": {
+    "regions": [
+      "Sydney Inner West",
+      "Sydney Western Suburbs",
+      "Sydney Eastern Suburbs",
+      "Northwest Sydney",
+      "Sydney Sutherland Shire"
+    ],
+    "suburb_count": 70
+  },
+  "eeat": {
+    "author_attribution": "Pro Clean Corp Operations Team",
+    "trust_signals": ["4.8/5 rating", "1200+ reviews", "9+ years experience", "Fully licensed & insured", "Background-checked staff"],
+    "credentials": ["Fully insured", "Bonded", "Licensed professionals", "Worker compensation coverage"]
+  },
+  "keyword_strategy": {
+    "primary": "commercial cleaning sydney",
+    "secondary": ["office cleaning sydney", "industrial cleaning sydney", "strata cleaning sydney"],
+    "intent_variants": ["near me", "services", "companies", "cost", "price"],
+    "geo_modifier": "Sydney NSW + 70 suburbs",
+    "industry_verticals": ["medical", "gym", "school", "restaurant", "retail", "church", "warehouse"]
+  },
+  "content_gaps": [
+    "Individual team member Person schema",
+    "Review schema at individual service level",
+    "LocalBusiness schema per suburb page",
+    "Case studies / testimonial structured data"
+  ],
+  "key_files": {
+    "root_layout": "app/layout.tsx",
+    "homepage": "app/page.tsx",
+    "org_schema": "app/components/StructuredData.tsx",
+    "service_schema": "app/components/services/ServiceStructuredData.tsx",
+    "service_data": "app/lib/Servicedata.tsx",
+    "locations": "app/lib/locations-constant.ts",
+    "next_config": "next.config.ts",
+    "seo_content": "app/components/services/ServiceSEOContent.tsx"
+  },
+  "niche": "commercial and residential cleaning services",
+  "location": "Sydney NSW, Australia",
+  "tone": "professional, trustworthy, authoritative",
+  "target_audience": "business owners, property managers, strata managers, facility managers",
+  "language": "en-AU",
+  "keywords": [
+    "commercial cleaning sydney",
+    "office cleaning sydney",
+    "industrial cleaning sydney",
+    "strata cleaning sydney",
+    "medical centre cleaning sydney",
+    "carpet cleaning sydney",
+    "window cleaning sydney",
+    "end of lease cleaning sydney",
+    "warehouse cleaning sydney",
+    "gym cleaning sydney",
+    "school cleaning sydney",
+    "restaurant cleaning sydney",
+    "commercial cleaning near me",
+    "office cleaners sydney",
+    "commercial cleaners sydney nsw"
+  ],
+  "competitors": []
+}
